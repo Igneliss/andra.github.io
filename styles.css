@@ -1,0 +1,44 @@
+body {
+    background-color: #FFD1DC;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#content {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.btn {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.green {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.red {
+    background-color: #f44336;
+    color: white;
+}
+
+.light-blue {
+    background-color: #ADD8E6;
+}
+
+.red-bg {
+    background-color: #f44336;
+}
